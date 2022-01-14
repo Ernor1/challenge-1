@@ -1,0 +1,185 @@
+ .container{
+    position:absolute;
+width: 100%;
+height: 100%;
+ 
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+width: 100vw;
+height: 100vh;
+
+background: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Montserrat' ,'Arial', 'Sans-serif';
+    text-rendering: optimizeLegibility;
+    color: #1F2431;
+
+}
+
+body{
+    height: 700px;
+    width: 1200px;
+    background-position: center;
+    background: #fff url(chal-img/Group 17.1.svg);
+     background-repeat: no-repeat;
+     background-position: right 45px center;
+background-size: auto;
+
+    
+}
+.row{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.main-nav{
+    float: left;
+    list-style: none;
+    width: 28.167%;
+    height: 2.84%;
+    margin-top: 2.6%;
+    margin-bottom: 2.33%;
+    font-size: 75%;
+    padding-bottom: 0.416%;
+}
+.main-nav li{
+    display: inline-block;
+    margin-right: 8%;
+    
+}
+.main-nav li a:link,
+.main-nav li a:visited{
+    padding: 10% 0;
+    text-decoration: none;
+    color: #000;
+    font-size: 90%;
+    border: 2px solid transparent;
+    transition: border-bottom 0.2s;
+    
+}
+.main-nav li a:hover,
+.main-nav li a:active{
+    border-bottom: 2px solid #00a8ff;
+    
+}
+.text-box{
+    position: absolute;
+    width: 32%;
+
+    height: 13.206%;
+transform: translate(23%,220%);
+    line-height: 230%;
+    margin-top: 4%;
+}
+.text-box h1{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 145%;
+     
+}
+
+
+.text-box p{
+    color: #82899B;
+    font-weight: 300;
+    font-size: 80%;
+    line-height: 150%;
+     
+}
+
+
+    
+
+.but
+{
+      color: #fff;
+    display: inline-block;
+    padding: 1% 10% 1% 0.2%;
+    margin-top: 10%;
+    font-weight: 500;
+    text-decoration: none;
+    border-radius: 51px;
+    border: 1px solid  #315EFB;
+
+    width: 52%;
+height: 40%;
+
+line-height: 16.68px;
+    font-size: 12px;
+    padding-left: 60px;
+background-color: #315EFB;
+}
+.but:hover,
+.but:active{
+    text-decoration: underline;
+    text-decoration-color: #00a8ff;
+    text-decoration-thickness: 3px;
+    
+}
+.logo-img{
+    float: right;
+   margin-top: 2.5%;
+    margin-right: 10%;
+    margin-left: 3.833%;
+    
+}
+.logo-img li{
+    display: inline-block;
+    margin-left: 10px;
+    border: 1px solid transparent;
+    
+    
+}
+    
+
+
+
+.logo
+{
+    margin-top: 2.5%;
+    float: left;
+    width:6.5%;
+    height: 3%;
+   
+ margin-right: 2.94%;
+    margin-left: 3.833%;
+    
+    
+}
+.hero{
+    transform: translate(30%,30%);
+    width: 40%;
+    height: 50%;
+    margin-top: 4%;
+    
+}
+header {
+    box-sizing: border-box;
+    width: 100%;
+    font-size: 20px;
+}
+
+nav {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+ul {
+    
+}
+
+.me {
+    
+}
+
+header {
+    
+}
